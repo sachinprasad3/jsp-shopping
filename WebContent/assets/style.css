@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+
+.navbar-light .navbar-brand {
+    color:rgba(157, 234, 19, 0.9);
+    font-size:30px;
+    font-family: 'Krona One', ;
+}
